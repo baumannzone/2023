@@ -14,3 +14,4 @@
 - 3 • T3chFest
   - Hilo con todas mis [fotos del evento](https://twitter.com/baumannzone/status/1631376545800413184) 🤳
   - Llego a **22022** follows en [twitter](https://twitter.com/baumannzone/status/1631435182061355009) 🎉
+- 9 • Evento en Campsite Academy: [Construyendo un clon de Hacker News con Alpine.js](https://twitter.com/baumannzone/status/1633181704079790080)
