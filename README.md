@@ -10,8 +10,7 @@
 
 ## Marzo
 
-- 2 • T3chFest • 🫂 Conozco a mucha gente y desvirtualizo a otra mucha
-- 3 • T3chFest
-  - Hilo con todas mis [fotos del evento](https://twitter.com/baumannzone/status/1631376545800413184) 🤳
-  - Llego a **22022** follows en [twitter](https://twitter.com/baumannzone/status/1631435182061355009) 🎉
-- 9 • Evento en Campsite Academy: [Construyendo un clon de Hacker News con Alpine.js](https://twitter.com/baumannzone/status/1633181704079790080)
+- 2 • T3chFest - 🫂 Conozco a mucha gente y desvirtualizo a otra mucha
+- 3 • T3chFest: Hilo con todas mis [fotos del evento](https://twitter.com/baumannzone/status/1631376545800413184) 🤳
+- 3 • Llego a `22,022` _(capicúa)_ follows en [twitter](https://twitter.com/baumannzone/status/1631435182061355009) 🎉
+- 9 • Evento en Campsite Academy: [Construyendo un clon de Hacker News con Alpine.js](https://twitter.com/baumannzone/status/1633181704079790080) - [YouTube](https://www.youtube.com/watch?v=n7E5Go0I2fs)
